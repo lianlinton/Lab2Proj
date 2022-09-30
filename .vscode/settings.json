@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "istream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "ratio": "cpp",
+        "bitset": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "memory": "cpp"
+    }
+}
